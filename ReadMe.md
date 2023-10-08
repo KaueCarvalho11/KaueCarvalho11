@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudando do curso Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido (UFERSA).<br>
+Cursando Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido (UFERSA).<br>
 
 
 ## 🌐 Socials:
