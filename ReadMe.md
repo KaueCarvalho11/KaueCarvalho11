@@ -3,9 +3,12 @@ Cursando Tecnologia da Informação pela Universidade Federal Rural do Semi-Ári
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]@KauêoFera#2231 
+[!Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]@KauêoFera#2231 
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kauê_Carvalho)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaue_carvalho11_) 
+
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@carvalhoh_kaue) 
 
 # 💻 Tech Stack:
